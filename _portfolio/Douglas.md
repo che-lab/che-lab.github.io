@@ -1,0 +1,8 @@
+---
+title: "Dr. Jason Douglas"
+excerpt: "Awarded Best Dressed in Crean College 3 Years in a Row<br/><img src='/images/douglas.jpg'>"
+collection: portfolio
+---
+
+Dr. Jason Douglas is an Environmental Psychologist who conducts research with underserved communities to develop an understanding of social and environmental inequities at the local, state, national, and international levels. As a postdoctoral research fellow in the Psychology Applied Research Center at Loyola Marymount University, Jason is currently conducting community-based participatory research (CBPR) concerning systemic inequities that manifest in poor health outcomes in low-income communities of color. In addition, as Director of Restorative Justice, also at Loyola Marymount University, Jason develops and implements youth participatory action research (YPAR) programs concerning inequitable access to greenspace in Los Angeles.
+Jason recently accepted a tenure-track assistant professor position in the Department of Environmental Studies at San José State University, where he is looking forward using his teaching and research toward educating and empowering individuals and communities exposed to social, economic, and environmental disparities. His research spans areas including participatory forest conservation in Jamaica, racial and ethnic approaches to community health, environmental justice and education in underserved urban communities, public policy and advocacy efforts to address root causes of childhood obesity, and hospital systems improvements related to homeless populations. Jason is also on the Board of Directors of Communities for a Better Environment, a community-based environmental justice organization based in Los Angeles and Oakland, California.

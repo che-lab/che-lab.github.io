@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 3"
+title: "The geography of crime and violence surrounding tobacco shops, medical
+marijuana dispensaries, and off-sale alcohol outlets in a large, urban lowincome
+community of color"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper is about ...'
+date: 2017-12-19
+venue: 'Preventitve Medicine'
+paperurl: 'http://che-lab.github.io/files/Geography and Crime.pdf'
+citation: 'Douglas, Jason. (2017). &quot;Geography and Crime.&quot; <i>Preventitive Medicine</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about ...
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here]('http://che-lab.github.io/files/Geography and Crime.pdf')
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Douglas, Jason. (2017). "The geography of crime and violence surrounding tobacco shops, medical
+marijuana dispensaries, and off-sale alcohol outlets in a large, urban lowincome
+community of color" <i>Preventitve Medicine</i>. 1(3).

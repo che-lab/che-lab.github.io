@@ -18,4 +18,4 @@ Contact Us
 ======
 We believe sharing our ideas is the best way to promote public health consciousness and better encact change. Please reach out to us to explore any of our ideas or share information.
 
-**health_space@chapman.edu**
+**che-lab@chapman.edu**

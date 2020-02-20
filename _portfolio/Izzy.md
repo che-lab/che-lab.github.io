@@ -1,6 +1,6 @@
 ---
 title: "Isabella Rainaldi"
-excerpt: "B.S. Health Science<br/><img src='/images/monstera.jpg'>"
+excerpt: "B.S. Health Science<br/><img src='/images/izzy.jpg'>"
 collection: portfolio
 ---
 

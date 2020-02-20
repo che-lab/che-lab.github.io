@@ -12,7 +12,7 @@ redirect_from:
 - Have an idea you want to share with us?
 - Want to join our lab?
 
-Email Us @ 
+Email Us!
 
-**health_space@chapman.edu**
+**che-lab@chapman.edu**
 

@@ -12,5 +12,3 @@ citation: 'Douglas, Jason. (2016). &quot;Empowerment Praxis.&quot; <i>American J
 This paper is about......
 
 [Download paper here]('http://che-lab.github.io/files/Empowerment Praxis.pdf')
-
-Recommended citation: Douglas, Jason. (2016). "Empowerment Praxis." <i>American Journal of Community Psychology</i>. 1(1).

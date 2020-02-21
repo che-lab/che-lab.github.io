@@ -10,7 +10,7 @@ I enjoy working with data and tackling complex issues with a good attitude.
 
 - Comfortable with Python, R, C++, JavaScript/Jekyll, Git
 
-`pandas` `seaborn` `ggplot` `tidyverse` `sf` `gdal`
+  `pandas` `seaborn` `ggplot` `tidyverse` `sf` `gdal`
 - Fluent in Spanish
 - Can Juggle
 

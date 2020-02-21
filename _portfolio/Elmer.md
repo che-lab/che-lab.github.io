@@ -1,7 +1,16 @@
 ---
 title: "Elmer Camargo"
-excerpt: "The Bad Boy of Data Science<br/><img src='/images/elmer.jpg'>"
+excerpt: "Data Scientist, Enjoys Walks Around The Park<br/><img src='/images/elmer.jpg'>"
 collection: portfolio
 ---
 
-Data scientist, chef, fisherman, handyman, knows how to use a machine gun
+I enjoy working with data and tackling complex issues with a good attitude.
+
+## Skills
+
+- Comfortable with Python, R, C++, JavaScript/Jekyll, Git
+  *`pandas`, `seaborn`, `ggplot`, `tidyverse`, `sf`, `gdal`
+- Fluent in Spanish
+- Can Juggle
+
+See my website for more. ['https://flapjackstan.github.io/']

@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Tang"
-excerpt: "B.S. Health Sciences<br/><img src='/images/jeremy.jpg'>"
+excerpt: "B.S. Health Sciences<br/><img src='/images/jeremy.JPG'>"
 collection: portfolio
 ---
 

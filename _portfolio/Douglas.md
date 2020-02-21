@@ -1,6 +1,6 @@
 ---
 title: "Dr. Jason Douglas"
-excerpt: "Awarded Best Dressed in Crean College 3 Years in a Row<br/><img src='/images/douglas.jpg'>"
+excerpt: "Lab Director and Plant Enthusiast<br/><img src='/images/douglas.jpg'>"
 collection: portfolio
 ---
 

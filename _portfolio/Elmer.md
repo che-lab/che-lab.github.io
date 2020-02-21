@@ -14,4 +14,4 @@ I enjoy working with data and tackling complex issues with a good attitude.
 - Fluent in Spanish
 - Can Juggle
 
-[See my website for more[("https://flapjackstan.github.io/")
+[See my website for more]("https://flapjackstan.github.io/")
